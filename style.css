@@ -1,0 +1,55 @@
+body{
+    background: orange ;
+    margin: 50px;
+}
+.org{
+    border-radius: 20px;
+    background-color:azure;
+    padding-block: 50px;
+    margin-top: 30px;
+}
+.img{
+    box-shadow: 10px;
+    margin-left: 100px;
+    width: fit-content;
+    
+}
+.img1{
+    box-shadow: 10px;
+    margin-left: 100px;
+    width: 1000px;
+    
+}
+.des{
+    margin-left: 50px;
+    color:black;
+    animation-duration: 5ms , calc(sans-serif);
+}
+.txt1{
+    margin-left: 500px;
+    font-size: 1em;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:black;
+    animation-duration: initial;
+}
+.txt2{
+    margin-left: 500px;
+    font-size: 1em;
+    font-family:Impact, Haettenschweiler, sans-serif;
+    color:black;
+    animation-duration: initial;
+}
+.t_btn {
+    position:unset;
+    border-radius: 20px;
+    image-resolution: inherit;
+    padding: 10px;
+    margin-left: 500px;
+    font:small-caps;
+}
+.imgInfo{
+    box-shadow: 10px;
+    margin-left: 100px;
+    
+}
+
